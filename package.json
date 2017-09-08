@@ -1,0 +1,13 @@
+{
+  "name": "dedupe",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "csv-parse": "^1.2.1"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
